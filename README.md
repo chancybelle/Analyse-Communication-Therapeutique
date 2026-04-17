@@ -1,7 +1,7 @@
 # Contribution Data : Analyse de la Communication Thérapeutique 
 
 ## Introduction
-Ce projet s’inscrit dans le cadre d’une soutenance de **BTS en Sciences Infirmières**. Mon intervention a consisté à apporter un appui technique sur la gestion des données our structurer et valoriser les données issues de son étude.
+Ce projet s’inscrit dans le cadre d’une soutenance de **BTS en Sciences Infirmières**. Mon intervention a consisté à apporter un appui technique sur la gestion des données pour structurer et valoriser les données issues de son étude.
 
 L'objectif était de transformer une collecte de terrain en indicateurs fiables, permettant ainsi à la candidate de se concentrer sur son expertise clinique tout en s'appuyant sur des supports statistiques solides.
 
