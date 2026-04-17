@@ -1,4 +1,4 @@
-# Contribution Data : Analyse de la Communication Thérapeutique : Analyse de la Communication Thérapeutique
+# Contribution Data : Analyse de la Communication Thérapeutique 
 
 ## Introduction
 Ce projet s’inscrit dans le cadre d’une soutenance de **BTS en Sciences Infirmières**. Mon intervention a consisté à apporter un appui technique sur la gestion des données our structurer et valoriser les données issues de son étude.
